@@ -139,41 +139,41 @@ body {
 }
 @media only screen and (max-width: 767px) {
   .imageadjust {
-    content: url(/images/disney_birthday_small.png);
+    content: url(./images/disney_birthday_small.png);
   }
   .imageadjust1 {
-    content: url(/images/disneyjr-memorablemoments-small.jpeg);
+    content: url(./images/disneyjr-memorablemoments-small.jpeg);
   }
   .imageadjust2 {
-    content: url(/images/djindia_small.jpeg);
+    content: url(./images/djindia_small.jpeg);
   }
   .imageadjust3 {
-    content: url(/images/disney_movies_small.png);
+    content: url(./images/disney_movies_small.png);
   }
   .menulogo {
-    content: url(/images/disney-logo6628.png);
+    content: url(./images/disney-logo6628.png);
   }
 }
 @media only screen and (max-width: 575px) {
   .imagecardadjust {
-    content: url(/images/pogo_small.jpeg);
+    content: url(./images/pogo_small.jpeg);
   }
   .imagecardadjust1 {
-    content: url(/images/spider-man-small.jpeg);
+    content: url(./images/spider-man-small.jpeg);
   }
   .imagecardadjust21 {
-    content: url(/images/star-trek-small.jpeg);
+    content: url(./images/star-trek-small.jpeg);
   }
   .imagecardadjust22 {
-    content: url(/images/theme-park-small.jpeg);
+    content: url(./images/theme-park-small.jpeg);
   }
   .imagecardadjust23 {
-    content: url(/images/ship-small.jpeg);
+    content: url(./images/ship-small.jpeg);
   }
   .imagecardadjust31 {
-    content: url(/images/poops-small.jpeg);
+    content: url(./images/poops-small.jpeg);
   }
   .imagecardadjust32 {
-    content: url(/images/mickey-small.jpeg);
+    content: url(./images/mickey-small.jpeg);
   }
 }
